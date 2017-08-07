@@ -1,6 +1,6 @@
 {
-    "usuario": "root",
-    "senha": "",
-    "host": "localhost",
-    "db": "marmitaria"
+    "usuario": "USUARIO",
+    "senha": "SENHA",
+    "host": "HOST",
+    "db": "BANCO"
 }
